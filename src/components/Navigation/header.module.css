@@ -1,0 +1,10 @@
+.forSmalldevices{
+    display: none;
+}
+
+
+/* @media(min-width:700px){
+    .forSmalldevices{
+        display: none;
+    } */
+/* } */

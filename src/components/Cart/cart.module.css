@@ -1,0 +1,29 @@
+.element{
+    padding:2%;
+    background-color: white;
+    display: flex;
+    flex-wrap:nowrap ;
+    align-items: center;
+}
+.image{
+    width:100%;
+    height:auto;
+}
+.eachElement{
+    margin-right: 5%;
+    width:40%;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 2%;
+    background-color: white;
+}
+
+@media(min-width:900px){
+    .eachElement{
+        
+        width:20%;
+    }   
+}
